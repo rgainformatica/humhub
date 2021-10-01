@@ -1,6 +1,6 @@
 # Script de instalação Humhub Ubuntu 20.04
 # bash install_humhub.sh link_da_versao url_da_intranet
-# exemplo: install_humhub.sh https://www.humhub.com/download/package/humhub-1.9.0.tar.gz intranet6.rgainfo.com.br SenhaDB
+# exemplo: install_humhub.sh https://www.humhub.com/download/package/humhub-1.9.1.tar.gz intranet.rgainfo.com.br SenhaDB
 
 
 # Instalação de requerimentos
