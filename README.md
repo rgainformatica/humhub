@@ -1,0 +1,2 @@
+# humhub
+Script HumHumb Intranet
